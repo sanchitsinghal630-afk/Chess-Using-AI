@@ -1,0 +1,5 @@
+Grandmaster Arena is a complete offline chess game by Sanchit Singhal.
+
+Play against the computer at three difficulty levels, or pass the phone and play a friend. Full rules including castling, en passant and promotion, move list, undo, board flip, captured pieces and sound.
+
+No ads, no tracking, no internet permission.
